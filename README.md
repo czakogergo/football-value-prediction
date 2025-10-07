@@ -1,11 +1,11 @@
 # Player Transfer Fee Prediction 🎯
 
-Ez a projekt az **Onlab** keretében készült, célja a **labdarúgó játékosok átigazolási díjának becslése** gépi tanulási módszerekkel.
+This project was developed as part of the **Onlab** program, with the goal of **predicting football player transfer fees** using machine learning techniques.
 
-A repóban a projekt **beszámolója és prezentációja** található:
-- `docs/report.pdf` – a részletes szakmai leírás  
-- `docs/slides.pdf` – az előadás diái  
+The repository contains the project’s **report and presentation**:
+- `docs/report.pdf` – detailed technical report  
+- `docs/slides.pdf` – presentation slides  
 
-A projekt során különböző regressziós modelleket (pl. Random Forest, Linear Regression) használtam a játékosértékek becslésére, adattisztítással, feature engineeringgel és hibamérésre (MAE, MAPE).
+During the project, several regression models (e.g., Random Forest, Linear Regression) were applied to estimate player market values, including data cleaning, feature engineering, and error analysis (MAE, MAPE).
 
-A nyers adatok és a futtatható notebook jelenleg nem publikusak, de a fenti dokumentumok bemutatják az alkalmazott módszertant és az elért eredményeket.
+The raw datasets and executable notebooks are not publicly available at this time, but the documents above demonstrate the applied methodology and the achieved results.
