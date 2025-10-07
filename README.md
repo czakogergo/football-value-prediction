@@ -1,6 +1,6 @@
 # Player Transfer Fee Prediction 🎯
 
-This project was developed as part of the **Onlab** program, with the goal of **predicting football player transfer fees** using machine learning techniques.
+This project was developed as part of a university program, with the goal of **predicting football player transfer fees** using machine learning techniques.
 
 The repository contains the project’s **report and presentation**:
 - `docs/report.pdf` – detailed technical report  
